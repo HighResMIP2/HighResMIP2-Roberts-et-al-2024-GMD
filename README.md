@@ -1,6 +1,6 @@
 # HighResMIP2-Roberts-et-al-2024-GMD
-Repository to store files used in Roberts et al. (2024) describing the HighResMIP2 protocol
+Repository to store files used in Roberts et al. (2024, revised) describing the HighResMIP2 protocol
 
 The sst_trends directory has the code and data to plot Fig. 4 in the manuscript showing the SST trends from HadISST1, ESA-CCI and HighResMIP datasets.
 
-The ecs directory has the code and data to plot Fig. 5 in the manuscript, showing illustrations of the calculation of Effective Climate Sensitivity from simulations using the CMIP6 experimental design (referenced to 1850) and HighResMIP simulations (referenced to 1950).
+The ecs directory has the code and data to plot Fig. 5 in the manuscript, showing illustrations of the calculation of Effective Climate Sensitivity from simulations using the CMIP6 experimental design (referenced to 1850) and HighResMIP simulations (referenced to 1950). Each experiment has three ensemble members, with each 4xCO2 member initialised at different times from the respective control simulation.
